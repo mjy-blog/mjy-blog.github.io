@@ -1,0 +1,1 @@
+[{"attributes":{"title":"텍스트 파일은 왜 줄바꿈문자로 끝날까?","description":"vim같은 거 쓰면 자동으로 줄바꿈문자 붙여주던데...","preview":"","tags":["토막글","POSIX"],"categories":["IT 잡지식"],"type":"default","excerpt":"줄들로 이루어진 파일을 텍스트 파일이라고 하는데, 여기서 줄이란 마지막에 붙는 줄바꿈문자를 포함한다.","createTime":"2024-06-12T01:11:44+09:00","updateTime":"2024-10-06 00:43:06 +0900"},"slug":"2024-06-12-why-text-file-ends-with-newline"}]

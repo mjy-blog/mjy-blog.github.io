@@ -1,0 +1,1 @@
+[{"attributes":{"title":"Makefile, make 기초","description":"Makefile, make 사용법","preview":"","tags":["Makefile","make","CMake","빌드시스템"],"categories":["C"],"type":"default","excerpt":"make는 의존성 관리와 증분 빌드 기능을 지원하는 빌드 시스템이다. 빌드 순서 관리, 바뀐 것만 빌드","createTime":"2024-06-17T08:20:57+09:00","updateTime":"2024-10-06 00:43:06 +0900"},"slug":"2024-06-15-make-basics"}]
